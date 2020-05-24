@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  color:blue;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.art{
+  margin-top: 8px;
+  margin-bottom:8px;
+}
+td{
+
+  border: 10px solid white;
+}
+#one{
+  background-color: #dddddd;
+  height: 700px;
+  width: 850px;
+}
+#two{
+  background-color: grey;
+  height: 700px;
+  width: 550px;
+}
+.list{
+  color: white;
+}
